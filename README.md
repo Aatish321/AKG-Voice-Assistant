@@ -19,7 +19,10 @@ AKG is a voice-activated virtual assistant built with Python, leveraging Google'
 - 🧠 Remembers to speak every response via TTS
 
 ---
+## Sample look
+![{FF326C6A-D58A-44B9-B296-9A1983544C43}](https://github.com/user-attachments/assets/c65acf24-b036-49da-8e7e-0de4bbc0a099)
 
+---
 ## 🛠️ Technologies Used
 
 | Component | Description |
