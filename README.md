@@ -37,39 +37,39 @@ AKG is a voice-activated virtual assistant built with Python, leveraging Google'
 
 
 🧠 How It Works
-Uses microphone input to capture user speech
+1)Uses microphone input to capture user speech
 
-Converts it to text using speech_recognition
+2)Converts it to text using speech_recognition
 
-Sends text to Gemini (Google Generative AI) via google.generativeai
+3)Sends text to Gemini (Google Generative AI) via google.generativeai
 
-Receives and speaks the response using pyttsx3
+4)Receives and speaks the response using pyttsx3
 
-Executes relevant actions (e.g., open websites, tell time, play music)
+5)Executes relevant actions (e.g., open websites, tell time, play music)
 
 
 📌 Sample Voice Commands
 
-“What is the capital of France?”
+1)“What is the capital of France?”
 
-“Play Tum Hi Ho on YouTube”
+2)“Play Tum Hi Ho on YouTube”
 
-“Open Gmail”
+3)“Open Gmail”
 
-“What’s the time now?”
+4)“What’s the time now?”
 
-“Tell me a joke”
+5)“Tell me a joke”
 
-"Goodbye” → ends conversation
+6)"Goodbye” → ends conversation
 
 
 🧾 Known Limitations
 
-Requires an internet connection for AI and YouTube features
+1)Requires an internet connection for AI and YouTube features
 
-Works best in a quiet environment for voice recognition
+2)Works best in a quiet environment for voice recognition
 
-Limited token output (controlled by max_output_tokens)
+3)Limited token output (controlled by max_output_tokens)
 
 🙏 Acknowledgements
 
